@@ -1,0 +1,25 @@
+nav{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    text-indent: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h2{
+   margin-left: 1%;
+   margin-top: 10px; 
+}
+.inicio{
+    border-style: dashed;
+    border-width: 2px;
+    border: 2px solid #000;
+}

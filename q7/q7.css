@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.feed{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.fileira{
+   display: flex;
+   justify-content: space-around;
+   margin-bottom: 1%;
+}
+.fotos img{
+    width: 23rem;
+    height: 24rem;
+}
+legend{
+    text-align: center;
+    font-size: x-large;
+}

@@ -1,0 +1,33 @@
+nav{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    background-color: rgb(157, 228, 146);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    text-indent: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h2{
+   margin-left: 1%;
+   margin-top: 10px; 
+}
+.bordaF{
+    border-style: dashed;
+    border-width: 2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: rgb(157, 228, 146);
+    
+}
+.inicio{
+    border-style: dashed;
+    border-width: 2px;
+    border: 2px solid #000;
+}
